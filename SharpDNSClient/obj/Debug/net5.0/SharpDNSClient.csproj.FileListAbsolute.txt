@@ -1,0 +1,16 @@
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\bin\Debug\net5.0\SharpDNSClient.exe
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\bin\Debug\net5.0\SharpDNSClient.deps.json
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\bin\Debug\net5.0\SharpDNSClient.runtimeconfig.json
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\bin\Debug\net5.0\SharpDNSClient.runtimeconfig.dev.json
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\bin\Debug\net5.0\SharpDNSClient.dll
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\bin\Debug\net5.0\ref\SharpDNSClient.dll
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\bin\Debug\net5.0\SharpDNSClient.pdb
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.csproj.AssemblyReference.cache
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.AssemblyInfoInputs.cache
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.AssemblyInfo.cs
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.csproj.CoreCompileInputs.cache
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.dll
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\ref\SharpDNSClient.dll
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.pdb
+C:\Users\Pay4ok\Desktop\SharpDNSClient\SharpDNSClient\obj\Debug\net5.0\SharpDNSClient.genruntimeconfig.cache
